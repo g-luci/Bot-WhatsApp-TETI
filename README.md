@@ -1,4 +1,4 @@
-# Projeto Acadêmico: OpsReady
+# Projeto Acadêmico: Bot-WhatsApp
 
-Projeto acadêmcico OpsReady referente a matéria Tópicos Especiais em Tecnologia da Informação
+Projeto acadêmcico Bot-WhatsApp referente a matéria Tópicos Especiais em Tecnologia da Informação
 
